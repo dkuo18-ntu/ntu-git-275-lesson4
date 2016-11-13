@@ -8,5 +8,5 @@
 
 | **名字**           | **github 帳號**       |
 | ------------------|:---------------------:|
-| Kuo Donald         | dkuo18-ntu            |
-| 組員二             |                       |
+| Donald Kuo         | dkuo18-ntu            |
+| Thor Hsu           | thorhsu               |
